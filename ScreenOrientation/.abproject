@@ -1,0 +1,40 @@
+{
+  "ProjectName": "ScreenOrientation",
+  "ProjectGuid": "da80c509-3898-4584-a760-6011c80be1c0",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ScreenOrientation",
+  "DisplayName": "ScreenOrientation",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{faa956d8-2eb8-46cd-9204-14ca99789020}",
+  "WP8ProductID": "{cc673c60-fe7f-439f-af09-15f17a7044f2}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ScreenOrientation",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
