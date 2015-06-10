@@ -25,7 +25,7 @@
         currentOrientation: function () {
           if (!this.checkSimulator()) {
             // wrapping in a timeout to prevent the popup showing twice on iOS
-            setTimeout(function() {alert("Current orientation: " + window.screen.orientation)});
+            setTimeout(function() {alert("Current orientation: " + JSON.stringify(window.screen.orientation))});
           }
         },
 
